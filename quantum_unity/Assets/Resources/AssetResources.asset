@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6dd8e95ae0daaec4496511105240e8a3, type: 3}
   m_Name: AssetResources
   m_EditorClassIdentifier: 
-  AddressablesGroup:
-    _resources: []
   AssetBundlesGroup:
     _resources: []
   ResourcesGroup:
@@ -53,3 +51,13 @@ MonoBehaviour:
         Id:
           Value: 1710471675203725834
       ResourcePath: DB/Map1
+    - Path: Resources/DB/CharacterControllerEntity|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 1945164232733293022
+      ResourcePath: DB/CharacterControllerEntity
+    - Path: Resources/DB/CharacterControllerEntity|EntityView
+      AssetRef:
+        Id:
+          Value: 4110831214522426870
+      ResourcePath: DB/CharacterControllerEntity
